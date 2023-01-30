@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.562e073d.css",
-    "main.js": "/Portfolio/static/js/main.59076857.js",
+    "main.js": "/Portfolio/static/js/main.738a623d.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/profile2.jpg": "/Portfolio/static/media/profile2.bbc7db069bf4159a37b8.jpg",
     "static/media/profile.jpg": "/Portfolio/static/media/profile.d75360d5c578368f75f2.jpg",
-    "static/media/CV.pdf": "/Portfolio/static/media/CV.673690f1d78feff8f923.pdf",
     "static/media/news.JPG": "/Portfolio/static/media/news.113622c7179a91be6607.JPG",
     "static/media/dance.JPG": "/Portfolio/static/media/dance.ee4299fe7fc260316a45.JPG",
     "static/media/flipkart.JPG": "/Portfolio/static/media/flipkart.f66815ba02d613955927.JPG",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.46d780ef05cc118e10c3.pdf",
     "static/media/pepsi.JPG": "/Portfolio/static/media/pepsi.6cc4aed1fab209218108.JPG",
     "static/media/textutils.JPG": "/Portfolio/static/media/textutils.cb5d578809e045181d4f.JPG",
     "static/media/inotes.JPG": "/Portfolio/static/media/inotes.a8635d1c19f8253ce624.JPG",
     "static/media/girl.png": "/Portfolio/static/media/girl.4263ec0d2bd35ffc30c9.png",
     "index.html": "/Portfolio/index.html",
     "main.562e073d.css.map": "/Portfolio/static/css/main.562e073d.css.map",
-    "main.59076857.js.map": "/Portfolio/static/js/main.59076857.js.map",
+    "main.738a623d.js.map": "/Portfolio/static/js/main.738a623d.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.562e073d.css",
-    "static/js/main.59076857.js"
+    "static/js/main.738a623d.js"
   ]
 }
